@@ -12,9 +12,9 @@ import (
 )
 
 /*
-Channel telegram : @esfelurm or @Team_Exploit
+Channel telegram : @m205zz
 ===============================================
-Link Github : https://github.com/esfelurm
+Link Github : https://github.com/m205zz
 ===============================================
 Sms Bomber pro v1
 */
@@ -70,7 +70,7 @@ func main() {
             #@@@@@@%####**+*%@@@@@@@@@@%*+**####%@@@@@@#              
             -@@@@*:       .  -#@@@@@@#:  .       -#@@@%:              
              *@@%#            -@@@@@@.            #@@@+               
-             .%@@# @esfelurm  +@@@@@@= Sms Bomber #@@#                
+             .%@@#    M205Zz  +@@@@@@= Sms Bomber #@@#                
               :@@*           =%@@@@@@%-           *@@:                
               #@@%         .*@@@@#%@@@%+.         %@@+                
               %@@@+      -#@@@@@* :%@@@@@*-      *@@@*                
